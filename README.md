@@ -6,8 +6,9 @@
   </a>
 </p>
 
+<p align="center">
 <img src="https://github.com/PedroCastilhos/cracha/blob/main/printscreen.png?raw=true" alt="Crachá">
-
+</p>
 ## 💻 Project
 
 This project is a badge made at the Rocketseat NWL Heat event.
